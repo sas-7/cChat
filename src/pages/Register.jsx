@@ -63,7 +63,7 @@ const Register = () => {
     <div className="formContainer">
       <div className="formWrapper">
         <span className="logo">cChat</span>
-        <span className="title">Register</span>
+        <span className="title">Sign Up</span>
         <form onSubmit={handleSubmit}>
           <input required type="text" placeholder="Name" />
           <input required type="email" placeholder="Email" />
